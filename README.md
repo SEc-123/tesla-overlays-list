@@ -100,11 +100,11 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 ### LANywhere Self-host
 
-Description: Check the connection and room status of LANywhere Self-host in-game. The SD package includes the required sysmodule.
+Description: Shows connection and room status in-game. Ultrahand API notifications can alert you when a room opens for a joined appointment.
 
 Author: LANywhere contributors (based on LANywhere by augustocco)
 
-Links: [GitHub](https://github.com/SEc-123/lanywhere-selfhost), [Release](https://github.com/SEc-123/lanywhere-selfhost/releases/tag/v0.4.7)
+Links: [GitHub](https://github.com/SEc-123/lanywhere-selfhost), [Release](https://github.com/SEc-123/lanywhere-selfhost/releases/latest)
 
 ## Game-specific Overlays
 
