@@ -100,7 +100,7 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 ### LANywhere Self-host
 
-Description: Shows connection and room status in-game. Ultrahand API notifications can alert you when a room opens for a joined appointment.
+Description: Play with friends over the internet using Local Wireless in compatible Switch games. The overlay shows connection and room status in-game. Players can schedule sessions and get room-opening alerts with Ultrahand API notifications enabled.
 
 Author: LANywhere contributors (based on LANywhere by augustocco)
 
