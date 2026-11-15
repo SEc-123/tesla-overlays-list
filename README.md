@@ -100,7 +100,7 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 ### LANywhere Self-host
 
-Description: Play with friends over the internet using Local Wireless in compatible Switch games. The overlay shows connection and room status in-game. Players can schedule sessions and get room-opening alerts with Ultrahand API notifications enabled.
+Description: Shows connection and room status in-game for LANywhere Self-host, which lets compatible Switch games use Local Wireless over the internet. Use the bundled Album app to pick a public node, compare connections with friends, or schedule play sessions.
 
 Author: LANywhere contributors (based on LANywhere by augustocco)
 
