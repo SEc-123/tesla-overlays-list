@@ -98,9 +98,9 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 
 
-### LANywhere Self-host
+### RoomCircuit (formerly LANywhere Self-host)
 
-Description: Shows connection and room status in-game for LANywhere Self-host, which lets compatible Switch games use Local Wireless over the internet. Use the bundled Album app to pick a public node, compare connections with friends, or schedule play sessions.
+Description: In-game connection and room status for RoomCircuit. Install the matching module from the full SD release.
 
 Author: LANywhere contributors (based on LANywhere by augustocco)
 
